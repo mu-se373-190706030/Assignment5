@@ -23,4 +23,7 @@ This app has one activity and multiple fragment.
 2)Detail Page <br />
 ![image](https://user-images.githubusercontent.com/100837228/160787815-a2521c96-ff9c-4336-8418-73a3b33ba83a.png)
 
+4)Fragment Navigation Graph <br />
+![image](https://user-images.githubusercontent.com/100837228/160788946-0da20dd1-9679-4b32-ab75-288e337334ef.png)
+
 
