@@ -8,9 +8,16 @@ Mobile Course Assignment 5
 
 ## Libraries that I use
 1) Jetpack Navigation
-2) Circular ImageView
+2) Circular ImageView <br />
 
-This app has one activity and multiple fragment.
+// Navigation Component <br />
+    implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"<br />
+    implementation "androidx.navigation:navigation-ui-ktx:$nav_version" <br />
+
+//Circular ImageView <br />
+  implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+## This App Has Single Activity and Multiple Fragments.
 
 ## ScreenShots
 
